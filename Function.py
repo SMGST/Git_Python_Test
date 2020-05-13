@@ -62,7 +62,6 @@ defualt_Value()
 defualt_Value("Brazil")
 print("------------------------------")
 list = ["C","C++","java","Python"]
-print(list1)
 print_List(list)
 print("------------------------------")
 tuples = ("Name","Roll","Dep")
